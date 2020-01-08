@@ -8,5 +8,7 @@ namespace MvcDemo.Models
     public class Class2
     {
         public string name { get; set; }
+
+        public int id { get; set; }
     }
 }
